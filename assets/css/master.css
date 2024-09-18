@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.result {
+    margin-top: 5rem;
+    font-size: 2rem;
+    color: rgb(255, 0, 0);
+}
+
+input[type="text"], button {
+    padding: 10px;
+    font-size: 18px;
+}
